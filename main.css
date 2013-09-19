@@ -11,6 +11,30 @@
   width: 720px;
 }
 
+.content {
+  font-family: serif;
+}
+
+.container h1 {
+  border-bottom: 2px solid #ccc;
+  font-family: sans-serif;
+  line-height: 60px;
+  text-align: auto;
+}
+
+.container h2 {
+  font-family: sans-serif;
+}
+
+section p {
+  letter-spacing: 1px;
+  word-spacing: 4px;
+}
+
+blockquote {
+  font-style: italic;
+}
+
 small.page_no {
   float: right;
   color: #ddd;
